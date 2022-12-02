@@ -1,0 +1,21 @@
+div{
+    margin-left:5%;
+    margin-right:5%;
+    padding:1%;
+}
+#outer{
+    margin-left:20%;
+    margin-right:20%;
+    background-color:bisque;
+    border-width: 5px;
+    border-style:solid;
+    border-color:brown;
+    border-radius: 5px;
+}
+.width{
+    width:35%;
+    background-color: rgb(250, 210, 157);
+}
+div label{
+    color:rgb(238, 87, 41);
+}
